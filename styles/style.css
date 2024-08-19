@@ -65,7 +65,7 @@ html {
   background: rgb(82, 195, 3);
   padding: 21px 32px 21px 32px;
   align-self: center;
-  box-shadow: black 0 0 0.3rem;
+  box-shadow: black 0 0 0.4rem;
   
 }
 .hero-content-btn:hover{
@@ -88,7 +88,7 @@ html {
   color: rgba(16, 16, 16, 0.688);
 }
 .cards-section-title {
-  font-size: 48px;
+  font-size: 4px;
   font-weight: 700;
   line-height: 64px;
   letter-spacing: 0%;
